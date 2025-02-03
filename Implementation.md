@@ -32,7 +32,7 @@
   - Creator event methods
   - Creator displaying methods
 
-## Multi layer 
+## Multi-layer 
   - (only in the future)
 
 ## Main menu 
