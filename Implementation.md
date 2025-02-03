@@ -8,4 +8,22 @@
 
 ## Base game interactions
   - interaction reader method
-  - saved interaction methods (buttons)
+  - saved interaction methods (e.g.: buttons)
+
+## Tile reading system development
+  - tile container development
+  - tile rule development
+  - tile reader methods
+  - tile classification
+  - tile class base interaction methods
+
+## Tile grid creation development
+  - tile system displaying methods
+  - tile updater methods
+
+## Ball object class development
+  - Ball class creation
+  - Base rule development
+  - Ball behavior development
+  - Ball updater and displaying methods
+
