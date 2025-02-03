@@ -27,3 +27,10 @@
   - Ball behavior development
   - Ball updater and displaying methods
 
+## Map creator development
+  - Base creator ruleset
+  - Creator event methods
+  - Creator displaying methods
+
+## Multi layer 
+  - (only in the future)
