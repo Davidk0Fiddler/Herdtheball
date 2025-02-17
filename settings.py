@@ -1,0 +1,13 @@
+application_running = True
+
+application_window_width1=1200
+application_window_height1=1000
+
+application_window_width2=900
+application_window_height2=700
+
+application_window_width3=700
+application_window_height3=500
+
+application_window_width4=500
+application_window_height4=300
