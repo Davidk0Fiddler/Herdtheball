@@ -4,17 +4,14 @@ from colors import *
 
 pygame.init()
 
-size_number = 1
+size_number = 3
 
 def selecting_size(number):
-    current_application_width = 0
-    current_application_height = 0  
+    width_var = f"application_window_width{number}"
+    height_var = f"application_window_height{number}"
 
-    selector_w = f'current_application_width = application_window_width{number}'
-    selector_h = f'current_application_height = application_window_height{number}'
-
-    exec(selector_w)
-    exec(selector_h)
+    current_application_width = globals().get(width_var, 0)
+    current_application_height = globals().get(height_var, 0)
 
     return (current_application_width, current_application_height)
 
